@@ -1,0 +1,9 @@
+INSERT INTO produtos (nome, descricao, preco, estoque, categoria) VALUES
+('Produto A', 'Descrição do Produto A', 599.99, 20, 'Eletrônicos'),
+('Produto B', 'Descrição do Produto B', 299.99, 15, 'Roupas'),
+('Produto C', 'Descrição do Produto C', 799.99, 30, 'Eletrônicos'),
+('Produto D', 'Descrição do Produto D', 149.99, 25, 'Acessórios'),
+('Produto E', 'Descrição do Produto E', 449.99, 10, 'Roupas'),
+('Produto F', 'Descrição do Produto F', 699.99, 18, 'Eletrônicos'),
+('Produto G', 'Descrição do Produto G', 99.99, 40, 'Acessórios'),
+('Produto H', 'Descrição do Produto H', 899.99, 12, 'Roupas');
